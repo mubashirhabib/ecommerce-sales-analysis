@@ -257,19 +257,21 @@ The insights generated from this project can support:
 ecommerce-sales-analysis/
 │
 ├── data/
-│   ├── online_retail.csv
-│   └── rfm_segments.csv
+│   ├── online_retail_II.csv
+│   └── rfm_segments.xls
 │
 ├── notebooks/
-│   └── ecommerce_analysis.ipynb
+│   └── analysis.ipynb
 │
 ├── dashboard/
-│   └── ecommerce_dashboard.pbix
+│   └── dashboard.pbix
 │
 ├── images/
-│   └── dashboard_preview.png
+│   ├── dashboard_overview.jpg
+│   └── customer_segments.jpg
 │
-└── README.md
+├── README.md
+└── .gitignore
 ```
 
 ---
